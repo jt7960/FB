@@ -1,0 +1,11 @@
+Unordered, unprioritized list of tasks
+
+Data
+Define default game (this may help guide what stats to scrape, database structure etc)
+Locate, document, and test sources for statistics
+Design and create database
+Collect stats as early as the year 2000 season (we will use this data for league year test runs/play throughs)
+
+
+
+	
