@@ -1,0 +1,24 @@
+3/28 Created the scraper file, and did a little bit of coming back up to speed on scraping with python. Coudn't remember the module that made html tables easy to scrape. It is Pandas.
+
+3/28 I was wondering how I would get from page to page on NBA.com/stats, and spent time reading about the calandar and datetime modules. might be useful later, but not for this...
+
+3/29 There is an nba_api python module. The guthub page looks a little chaotic, and the endpoints are highly specific (there are a lot of them, and nothing looks useful) but Ill keep it in mind
+
+3/29 Found a good site: https://www.basketball-reference.com/leagues/NBA_2019_games.html. This looks WAY more useful than nba.com/stats to scrape. Switching my fucus to this site.
+
+3/29 wrote a function to get the capture the schedule page from seasons 2000 - 2019
+
+3/29 found this: https://www.basketball-reference.com/leagues/NBA_2019.html, terrific season summarys that could be used for all kinds of things. (namely, choosing which player/game to use during a week)
+
+3/29 I have my environment set up to use python 2.7.8 because Im also working on school stuff with udacity and thier code is 2.7.8.... however this version is not working well for ssl. I will have to relearn anaconda environment management
+
+3/29 Here is the best anaconda reference resource I found: https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
+3/29 final note today. i got the scraper to iterate over the last 20 years of nba schedules. Next up will be to output them to a database. Committing here, enjoy.
+
+
+
+
+
+
+
