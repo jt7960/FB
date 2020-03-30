@@ -30,6 +30,10 @@ Free Agents
 Mockup of the page
 What options will we have for free agents? 
 
+Interfaces
+    mobile site
+    IOS/Andriod App, tablet and phone support
+    desktop/pc
 
 
 	
