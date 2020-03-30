@@ -1,0 +1,40 @@
+<MileStones>
+
+Title: Create and Populate Database
+Lead: Joel
+Due: 4/15/2020
+Description: Create a database for the application and populate it with the necessary NBA data needed to get started on the project
+Task List:
+    Create a working python environment
+    Identify the internet data source
+    Create the database
+        Download/install etc (use MySQL for now since its free and there are no size limitations)
+        Define the data structure (iterative process, definitions may evolve with new information)
+    Create the E.T.L.
+        Extract the data from the data source
+        Transform the data to the required structure
+        Load the data into the database
+
+Title: Simulate leagues and games
+Lead: Joel
+Due: ?
+Description: Once the data is in place, use the data to simulate leagues, teams and matchups.
+    The goal is to better understand the default game and answer questions such as;
+        'How many players are on a roster?' 
+        'How many of each player position on a roster?'
+        'How are player and game stats translated into fantasy points?'
+Task List: ?
+
+Title: Create a blank web site that can be logged in to.
+Lead: Derek
+Due: 4/15/2020
+Description: Create a website with nothing except the ability to log in
+Task List:
+    Identify (decide on) an authentication framework to use (can we use the one we used for NLFF?)
+    Create the development environment accomidating the requirements for the auth framework
+        database, backend prog. language
+    Create users for the devs to use
+
+
+    
+        
