@@ -1,0 +1,32 @@
+Project Definition
+
+Create a fantasy basketball site that will allow for custom league schedules. 
+ We believe that shorter leagues would attract a casual audience much like fantasy football.
+
+Users will be able to login and view their fantasy rosters, create leagues and invite 
+  other members, have teams in multiple leagues. Rosters will be filled via a draft 
+  system and can be updated throughout the season by performing trades or waiver wire/free 
+  agent additions. Each player will have a player profile page consisting of current and 
+  past statistical information, as well as, recent news stories involving said player.
+
+**Below is a list of sections/items that will need to be built out. These can be addressed 
+    in milestones and task lists. New sections/items should be added, as needed, to this list.**
+
+	- Login
+		- Front End
+		- Back End
+ 	- Navigation Menu
+ 	- League Pages
+		- League news
+		- League rankings
+		- Back End
+ 	- Member Pages
+		- Rosters 
+		- Back End
+	- Free Agent Page
+		- List of Free Agents and Waiver Wire Players
+		- Back End
+	- Player Profile
+		- Front End page
+		- Back End
+
