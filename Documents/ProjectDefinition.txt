@@ -1,6 +1,11 @@
 Project Definition
 
-Create a fantasy basketball site that will allow for custom league schedules. 
+Reinvent fantasy basketball and create a game that;
+	* improves on the shortcomings of fantasy basketball as it exists today
+	* leverages the addictive qualitities of fantasy football 
+	* Corrects the aspects of current the fantasy basketball format that tends to cause users to lose interest
+
+Create a fantasy basketball site that will allow for custom league schedules.
  We believe that shorter leagues would attract a casual audience much like fantasy football.
 
 Users will be able to login and view their fantasy rosters, create leagues and invite 
@@ -8,6 +13,8 @@ Users will be able to login and view their fantasy rosters, create leagues and i
   system and can be updated throughout the season by performing trades or waiver wire/free 
   agent additions. Each player will have a player profile page consisting of current and 
   past statistical information, as well as, recent news stories involving said player.
+
+
 
 **Below is a list of sections/items that will need to be built out. These can be addressed 
     in milestones and task lists. New sections/items should be added, as needed, to this list.**
